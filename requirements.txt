@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+torch
+scikit-learn
+catboost
+xgboost
+gensim
+python-Levenshtein
+-e .
